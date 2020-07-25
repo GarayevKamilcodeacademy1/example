@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 250px;
+  }
+  
+  li {
+    float: left;
+
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  nav{
+     display: flex;
+  }
+#photo{
+    width: 550px;
+}
+.row{
+    display: flex   ;
+
+}
+
+button{
+    height: 30px;
+    background: rgb(24,247,241);
+background: linear-gradient(90deg, rgba(24,247,241,1) 29%, rgba(255,155,213,1) 100%);
+margin-left: 50px;
+}
